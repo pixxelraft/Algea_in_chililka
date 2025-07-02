@@ -1,6 +1,6 @@
 # 🌿 Algae Biomass Growth Simulation — Chilika Lagoon (2015–2024)
 
-**Author:** Pixxelraft Research Division  
+**Author:** Sayed Umair Ali
 **Date:** July 2025  
 **Location:** Chilika Lagoon, Odisha, India
 
